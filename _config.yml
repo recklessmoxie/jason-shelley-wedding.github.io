@@ -12,14 +12,15 @@ facebook_username:
 twitter_username:
 github_username:
 address:
-  - line:
-  - line:
+  - line: MV Skansonia
+  - line: 205 NE Northlake Way 
+  - line: Seattle, WA 98105
   # Feel free to add more lines here
 telephone:
 copyright:
 
 # API settings
-google_api_key:
+google_api_key: AIzaSyA67YHPnJ1xmumEBhG5bmceWYvGuU4F6W4
 
 # Build settings
 markdown: kramdown
