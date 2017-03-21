@@ -1,7 +1,7 @@
 # Site settings
 title: Jason & Shelley's Wedding
 email:
-description: "Website for our big day"
+description: "Our Wedding Website"
 baseurl: # the subpath of your site, e.g. /blog/
 url: "http://jason-shelley-wedding.com/" # the base hostname & protocol for your site
 
@@ -13,7 +13,7 @@ twitter_username:
 github_username:
 address:
   - line: MV Skansonia
-  - line: 205 NE Northlake Way 
+  - line: 205 NE Northlake Way
   - line: Seattle, WA 98105
   # Feel free to add more lines here
 telephone:
